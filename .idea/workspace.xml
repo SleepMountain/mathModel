@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd510b1d-75ae-481c-9769-84828730abe8" name="更改" comment="test" />
+    <list default="true" id="fd510b1d-75ae-481c-9769-84828730abe8" name="更改" comment="remove html" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,12 +27,12 @@
     &quot;assignee&quot;: &quot;SleepMountain&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/SleepMountain/Learn_MathModel.git&quot;,
-    &quot;accountId&quot;: &quot;d45d9e44-d7fc-4fc3-b11c-1ba512f802d3&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/SleepMountain/mathModel.git",
+    "accountId": "d45d9e44-d7fc-4fc3-b11c-1ba512f802d3"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -1100,6 +1100,7 @@
       <workItem from="1730817821952" duration="69000" />
       <workItem from="1730817897142" duration="145000" />
       <workItem from="1730818050003" duration="20000" />
+      <workItem from="1730818224746" duration="111000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -1213,7 +1214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728892163346</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="remove html">
+      <option name="closed" value="true" />
+      <created>1730818325032</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1730818325032</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1252,7 +1261,8 @@
     <MESSAGE value="init2" />
     <MESSAGE value="init3" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="remove html" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove html" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
