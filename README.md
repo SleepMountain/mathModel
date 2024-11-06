@@ -52,7 +52,7 @@ QQ:3224039710
 
 ### 版权说明
 
-该项目签署了MIT 授权许可，详情请参阅 [LICENSE.txt](https://github.com/shaojintian/Best_README_template/blob/master/LICENSE.txt)
+该项目签署了MIT 授权许可，详情请参阅 [LICENSE.txt](https://github.com/SleepMountain/mathModel/blob/2da2656820694e6c51a95cbf11e782d33d860889/LICENSE.txt)
 
 
 
