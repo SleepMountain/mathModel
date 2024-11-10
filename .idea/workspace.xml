@@ -4,40 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd510b1d-75ae-481c-9769-84828730abe8" name="更改" comment="change name2">
-      <change afterPath="$PROJECT_DIR$/泰迪杯2A/任务1.1实现.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2A/任务1.2实现.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2A/任务1.3实现.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2A/任务1.4实现.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2A/任务1.5实现.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2A/任务1.5绘制热力图（Kendal'stau-b）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2A/任务1.5绘制热力图（Pearson子）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2A/任务1.5绘制热力图（Pearson总）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2A/任务1.5绘制热力图（Spearman）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2A/任务1.5预处理-筛选.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2A/任务1.5预处理-统计.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2A/任务2.1M101预处理.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2A/任务2.1M102预处理.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2A/任务2.2M101绘图.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2A/任务2.2M102绘图.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2A/任务2.3预处理.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2A/任务2.4M101绘图.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2A/任务2.4M102绘图.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2A/任务2.4预处理.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2A/任务2.5数据切割.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2A/任务2.5绘图.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2A/任务2.5预处理.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2A/任务3季节性时间序列分析.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2A/任务3季节性预处理.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2A/任务3工序耗时全年分割.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2A/任务3工序耗时全年预处理.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2A/任务3工序耗时因素绘图（1小时）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2A/任务3工序耗时因素绘图（5分钟）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2A/任务3工序耗时按颗粒分割.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2A/任务3工序耗时按颗粒预处理.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2A/任务3运行时间拟合.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2A/任务3运行时间求导.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2A/任务3运行时间预处理.py" afterDir="false" />
+    <list default="true" id="fd510b1d-75ae-481c-9769-84828730abe8" name="更改" comment="泰迪杯A">
+      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务1.1实现.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务1.2实现.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务1.3实现.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务1.4实现.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务1单位转换.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务1数据转换.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务1数据预处理.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务2.1预处理.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务2.2绘图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务2.2预处理.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务2.3预处理.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务2.4预处理.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务2.5绘图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务2.5预处理.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务3客户1图谱构建.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务3客户2图谱构建.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务3数据集格式化.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务3数据预处理.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务3模型检验客户1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务3模型检验客户2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务3药品知识图谱构建.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,6 +81,7 @@
     &quot;Python.任务2.2M101 (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.任务2.2M102.executor&quot;: &quot;Run&quot;,
     &quot;Python.任务2.2绘图.executor&quot;: &quot;Run&quot;,
+    &quot;Python.任务2.2绘图2.executor&quot;: &quot;Run&quot;,
     &quot;Python.任务2.3.executor&quot;: &quot;Run&quot;,
     &quot;Python.任务2.4M101绘图.executor&quot;: &quot;Run&quot;,
     &quot;Python.任务2.4M102绘图.executor&quot;: &quot;Run&quot;,
@@ -101,6 +90,11 @@
     &quot;Python.任务3工序耗时因素绘图.executor&quot;: &quot;Run&quot;,
     &quot;Python.任务3工序耗时因素绘图（1小时）.executor&quot;: &quot;Run&quot;,
     &quot;Python.任务3工序耗时因素绘图（5分钟） (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.任务3数据预处理.executor&quot;: &quot;Run&quot;,
+    &quot;Python.任务3用户1图谱构建.executor&quot;: &quot;Run&quot;,
+    &quot;Python.任务3用户2图谱构建.executor&quot;: &quot;Run&quot;,
+    &quot;Python.任务3知识图谱清空.executor&quot;: &quot;Run&quot;,
+    &quot;Python.任务3药品图谱构建.executor&quot;: &quot;Run&quot;,
     &quot;Python.任务3运行时间因素.executor&quot;: &quot;Run&quot;,
     &quot;Python.任务3运行时间因素预处理.executor&quot;: &quot;Run&quot;,
     &quot;Python.任务3运行时间拟合.executor&quot;: &quot;Run&quot;,
@@ -111,7 +105,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/python/code/mathModel/泰迪杯2A&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/python/code/mathModel/泰迪杯2B&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -123,22 +117,22 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python\code\mathModel\泰迪杯2B" />
       <recent name="D:\python\code\mathModel\泰迪杯2A" />
       <recent name="D:\python\code\mathModel\全国大学生数学建模2" />
       <recent name="D:\python\code\mathModel\process8" />
       <recent name="D:\python\code\mathModel\量化交易" />
-      <recent name="D:\python\code\mathModel\数据结构与算法设计" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python\code\mathModel\泰迪杯2B" />
       <recent name="D:\python\code\mathModel\泰迪杯2A" />
       <recent name="D:\python\code\mathModel\全国大学生数学建模2" />
       <recent name="D:\python\code\mathModel\KG" />
       <recent name="D:\python\code\mathModel\else" />
-      <recent name="D:\python\code\mathModel\2023年第四届“华数杯”全国大学生数学建模竞赛\myQ" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.任务3工序耗时因素绘图（1小时）">
-    <configuration name="自己建" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.任务2.2绘图">
+    <configuration name="问题三副本" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mathModel" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,12 +141,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2023年第四届“华数杯”全国大学生数学建模竞赛" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/process4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2023年第四届“华数杯”全国大学生数学建模竞赛/自己建.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/process4/问题三副本.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,21 +155,38 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="任务2.2M101绘图" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="任务2.2绘图" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mathModel" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/泰迪杯2A" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/泰迪杯2B" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\python\code\mathModel\泰迪杯2A\任务2.2M101绘图.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/泰迪杯2B/任务2.2绘图.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="任务2.2绘图" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mathModel" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/泰迪杯2B" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\python\code\mathModel\泰迪杯2B\任务2.2绘图.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,12 +204,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/泰迪杯2A" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/泰迪杯2B" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/泰迪杯2A/任务2.5绘图.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/泰迪杯2B/任务2.5绘图.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -207,7 +218,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="任务2.5绘图2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="任务3数据预处理" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mathModel" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -216,12 +227,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/泰迪杯2A" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/泰迪杯2B" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/泰迪杯2A/任务2.5绘图2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/泰迪杯2B/任务3数据预处理.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,113 +241,18 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="任务3运行时间因素预处理" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="任务3药品图谱构建" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mathModel" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/泰迪杯2A" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/泰迪杯2B" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/泰迪杯2A/任务3运行时间因素预处理.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="任务3工序耗时因素绘图（1小时）" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="mathModel" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/泰迪杯2A" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/泰迪杯2A/任务3工序耗时因素绘图（1小时）.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="任务3工序耗时因素绘图（5分钟） (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="mathModel" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/泰迪杯2A" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/泰迪杯2A/任务3工序耗时因素绘图（5分钟）.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="任务3工序耗时因素绘图（5分钟）" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="mathModel" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/泰迪杯2A" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\python\code\mathModel\泰迪杯2A\任务3工序耗时因素绘图（5分钟）.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Q3遗传算法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="mathModel" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/全国大学生数学建模2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\python\code\mathModel\全国大学生数学建模2\Q3遗传算法.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/泰迪杯2B/任务3药品图谱构建.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -347,8 +263,12 @@
     </configuration>
     <configuration name="Q3遗传迭代" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mathModel" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/全国大学生数学建模2" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -364,7 +284,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Q4针对问题三的策略数量图" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Q4针对问题三画利润差异对比图" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mathModel" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -372,25 +292,6 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/全国大学生数学建模2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/全国大学生数学建模2/Q4针对问题三的策略数量图.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Q4针对问题三画利润差异对比图" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="mathModel" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/全国大学生数学建模2" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -425,6 +326,72 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="问题二副本" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mathModel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/process4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/process4/问题二副本.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="问题二线性近似束优化方法绘图" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mathModel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/全国大学生数学建模" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\python\code\mathModel\全国大学生数学建模\问题二线性近似束优化方法绘图.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="问题三正态分布" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mathModel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/process5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\python\code\mathModel\process5\问题三正态分布.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="问题二线性规划" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mathModel" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -439,6 +406,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2023年第四届“华数杯”全国大学生数学建模竞赛/问题二线性规划.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="问题一（检验结果）" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mathModel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2023年第四届“华数杯”全国大学生数学建模竞赛" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2023年第四届“华数杯”全国大学生数学建模竞赛/问题一（检验结果）.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -573,6 +562,25 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="三合一灰色预测" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mathModel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/挑战杯" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/挑战杯/三合一灰色预测.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="问题二线性规划" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mathModel" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -589,25 +597,6 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2023年第四届“华数杯”全国大学生数学建模竞赛/问题二线性规划.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="三合一灰色预测" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="mathModel" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/挑战杯" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/挑战杯/三合一灰色预测.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -721,116 +710,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="问题二副本" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="mathModel" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/process4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/process4/问题二副本.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="问题二线性近似束优化方法绘图" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="mathModel" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/全国大学生数学建模" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\python\code\mathModel\全国大学生数学建模\问题二线性近似束优化方法绘图.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="问题三副本" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="mathModel" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/process4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/process4/问题三副本.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="问题三正态分布" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="mathModel" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/process5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\python\code\mathModel\process5\问题三正态分布.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="问题一（检验结果）" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="mathModel" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2023年第四届“华数杯”全国大学生数学建模竞赛" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2023年第四届“华数杯”全国大学生数学建模竞赛/问题一（检验结果）.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="mathModel" />
       <option name="ENV_FILES" value="" />
@@ -879,11 +758,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.任务3工序耗时因素绘图（1小时）" />
+        <item itemvalue="Python.任务2.2绘图" />
         <item itemvalue="Python.任务2.5绘图" />
-        <item itemvalue="Python.任务3工序耗时因素绘图（5分钟） (1)" />
-        <item itemvalue="Python.任务3工序耗时因素绘图（5分钟）" />
-        <item itemvalue="Python.任务2.5绘图2" />
+        <item itemvalue="Python.任务3数据预处理" />
       </list>
     </recent_temporary>
   </component>
@@ -1091,6 +968,10 @@
       <workItem from="1731115852321" duration="7680000" />
       <workItem from="1731124343930" duration="5583000" />
       <workItem from="1731132041489" duration="15338000" />
+      <workItem from="1731164912587" duration="522000" />
+      <workItem from="1731209771626" duration="10839000" />
+      <workItem from="1731232030261" duration="1152000" />
+      <workItem from="1731233210819" duration="1059000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -1228,7 +1109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730861516626</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="泰迪杯A">
+      <option name="closed" value="true" />
+      <created>1731165016499</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1731165016499</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1270,7 +1159,8 @@
     <MESSAGE value="remove html" />
     <MESSAGE value="change name" />
     <MESSAGE value="change name2" />
-    <option name="LAST_COMMIT_MESSAGE" value="change name2" />
+    <MESSAGE value="泰迪杯A" />
+    <option name="LAST_COMMIT_MESSAGE" value="泰迪杯A" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
