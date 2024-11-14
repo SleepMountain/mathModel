@@ -4,28 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd510b1d-75ae-481c-9769-84828730abe8" name="更改" comment="泰迪杯A">
-      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务1.1实现.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务1.2实现.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务1.3实现.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务1.4实现.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务1单位转换.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务1数据转换.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务1数据预处理.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务2.1预处理.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务2.2绘图.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务2.2预处理.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务2.3预处理.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务2.4预处理.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务2.5绘图.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务2.5预处理.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务3客户1图谱构建.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务3客户2图谱构建.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务3数据集格式化.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务3数据预处理.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务3模型检验客户1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务3模型检验客户2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泰迪杯2B/任务3药品知识图谱构建.py" afterDir="false" />
+    <list default="true" id="fd510b1d-75ae-481c-9769-84828730abe8" name="更改" comment="泰迪杯B">
+      <change afterPath="$PROJECT_DIR$/try/json转txt.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,6 +50,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.json转txt.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;Python.任务1.1.executor&quot;: &quot;Run&quot;,
     &quot;Python.任务1.5绘制热力图.executor&quot;: &quot;Run&quot;,
@@ -131,7 +112,7 @@
       <recent name="D:\python\code\mathModel\else" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.任务2.2绘图">
+  <component name="RunManager" selected="Python.json转txt">
     <configuration name="问题三副本" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mathModel" />
       <option name="ENV_FILES" value="" />
@@ -160,6 +141,9 @@
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/泰迪杯2B" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -261,56 +245,14 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Q3遗传迭代" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="mathModel" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/全国大学生数学建模2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/全国大学生数学建模2/Q3遗传迭代.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Q4针对问题三画利润差异对比图" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="mathModel" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/全国大学生数学建模2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/全国大学生数学建模2/Q4针对问题三画利润差异对比图.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Q4针对问题三" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mathModel" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/全国大学生数学建模2" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -320,6 +262,50 @@
       <option name="SCRIPT_NAME" value="D:\python\code\mathModel\全国大学生数学建模2\Q4针对问题三.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="问题一副本" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mathModel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/process4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/process4/问题一副本.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="实验误差" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mathModel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/物理竞赛" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/物理竞赛/实验误差.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -666,50 +652,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="问题一副本" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="mathModel" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/process4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/process4/问题一副本.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="实验误差" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="mathModel" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/物理竞赛" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/物理竞赛/实验误差.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="mathModel" />
       <option name="ENV_FILES" value="" />
@@ -725,6 +667,29 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="json转txt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mathModel" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/try" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try/json转txt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -758,6 +723,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.json转txt" />
         <item itemvalue="Python.任务2.2绘图" />
         <item itemvalue="Python.任务2.5绘图" />
         <item itemvalue="Python.任务3数据预处理" />
@@ -971,7 +937,9 @@
       <workItem from="1731164912587" duration="522000" />
       <workItem from="1731209771626" duration="10839000" />
       <workItem from="1731232030261" duration="1152000" />
-      <workItem from="1731233210819" duration="1059000" />
+      <workItem from="1731233210819" duration="1688000" />
+      <workItem from="1731502937603" duration="211000" />
+      <workItem from="1731595689791" duration="956000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -1117,7 +1085,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731165016499</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="泰迪杯B">
+      <option name="closed" value="true" />
+      <created>1731240729133</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1731240729133</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1160,7 +1136,8 @@
     <MESSAGE value="change name" />
     <MESSAGE value="change name2" />
     <MESSAGE value="泰迪杯A" />
-    <option name="LAST_COMMIT_MESSAGE" value="泰迪杯A" />
+    <MESSAGE value="泰迪杯B" />
+    <option name="LAST_COMMIT_MESSAGE" value="泰迪杯B" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
